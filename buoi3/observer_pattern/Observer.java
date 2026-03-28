@@ -1,0 +1,4 @@
+package buoi3.observer_pattern;
+public interface Observer {
+    void update(String message);
+}
